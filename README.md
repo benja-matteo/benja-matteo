@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Benjamin Matteo from Chile.
-- 🎯 My goal is to create technologies that help others enhance their lives, and the best thing of all is that there are many ways to do it!
-- 💻 I’m currently improving my backend skills where my main lenguage are python.
-- 🚀 In the near future I would like to learn go, and C for learn memory management.
-- 👥 I really like meeting people and learning from the different points of view that a person has to solve a problem.
+👋 ¡Hola! Soy Benjamin Matteo, de Chile.
+
+🎯 Mi objetivo es crear tecnologías que realmente marquen la diferencia y ayuden a las personas a mejorar sus vidas. ¡Y lo más increíble es que hay tantas formas de hacerlo!
+
+💻 Ahora estoy dedicando tiempo a fortalecer mis habilidades en backend, con Python como mi principal aliado.
+
+🚀 A futuro, me entusiasma mucho aprender Go y C, especialmente para entender cómo funciona la gestión de memoria a nivel más profundo. En Go, quiero crear un backend más robusto y eficiente, aprovechando su rendimiento y simplicidad.
+
+👥 Me apasiona conocer nuevas personas y aprender de sus perspectivas. Creo que compartir ideas y experiencias siempre lleva a encontrar mejores soluciones.
 
 
 <!---
