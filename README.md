@@ -1,4 +1,4 @@
-👋 Hi, I'm Benjamin Matteo from Chile!
+👋 Hi, I'm Benjamin Matteo from Chile
 🎯 My goal is to create technologies that truly make a difference and help people improve their lives. The best part? There are endless ways to achieve it!
 
 💻 Right now, I'm sharpening my backend skills, with Python as my main ally.
